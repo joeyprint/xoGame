@@ -2,7 +2,7 @@
 Library    SereniumLibrary
 
 *** Variables ***
-${URL}    http://localhost:8888/xoGame/index.jsp
+${URL}    http://localhost:8080/xoGame/index.jsp
 ${BROWSER}    chrome
 
 *** Test Cases ***
