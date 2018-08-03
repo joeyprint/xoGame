@@ -1,5 +1,5 @@
 *** Settings ***
-Library    SereniumLibrary
+Library    SeleniumLibrary
 
 *** Variables ***
 ${URL}    http://localhost:8888/xoGame/index.jsp
