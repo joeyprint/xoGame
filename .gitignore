@@ -2,3 +2,5 @@ atdd/ui/log.html
 atdd/ui/output.xml
 atdd/ui/report.html
 atdd/ui/selenium-screenshot-*
+.DS_Store
+xoGame/build
