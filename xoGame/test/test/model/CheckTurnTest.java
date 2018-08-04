@@ -5,7 +5,7 @@
  */
 package test.model;
 
-import api.model.CheckTurn;
+import api.model.CheckTurnMoreOrEqualFour;
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
@@ -20,7 +20,7 @@ public class CheckTurnTest {
     public void checkTurnMoreOrEqualFour(){
         int turn = 4;
         boolean expected = true;
-        CheckTurn ct = new CheckTurn();
+        CheckTurnMoreOrEqualFour ct = new CheckTurnMoreOrEqualFour();
         
         boolean actual = ct.getTrue(turn);
 //        

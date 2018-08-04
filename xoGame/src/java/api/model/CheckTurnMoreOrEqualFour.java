@@ -9,9 +9,9 @@ package api.model;
  *
  * @author MayPT
  */
-public class CheckTurn {
+public class CheckTurnMoreOrEqualFour {
 
-    public CheckTurn() {
+    public CheckTurnMoreOrEqualFour() {
     }
 
        
