@@ -1,4 +1,4 @@
-/log.html
-/output.xml
-/report.html
-/selenium-screenshot-*
+atdd/ui/log.html
+atdd/ui/output.xml
+atdd/ui/report.html
+atdd/ui/selenium-screenshot-*
