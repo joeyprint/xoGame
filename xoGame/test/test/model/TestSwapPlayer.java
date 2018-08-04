@@ -12,8 +12,8 @@ import org.junit.runners.Suite;
  *
  * @author wasin
  */
-@RunWith(Suite.class)
-@Suite.SuiteClasses({})
+//@RunWith(Suite.class)
+//@Suite.SuiteClasses({})
 public class TestSwapPlayer {
     
 }
