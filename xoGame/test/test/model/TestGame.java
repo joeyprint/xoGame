@@ -14,7 +14,7 @@ import static org.junit.Assert.*;
  *
  * @author bom
  */
-public class GameTest {
+public class TestGame {
     @Test
     public void GameTest() {
         Game game = new Game();
